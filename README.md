@@ -1,2 +1,3 @@
 # control_repo
-Puppet control repo
+
+This is a control repo for a puppet project
